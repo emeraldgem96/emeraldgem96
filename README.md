@@ -2,7 +2,7 @@
 
 Hi there 👋  My name is Imani Moody, lovely to meet you!
 
-😄 Pronouns: she/they
+😄 Pronouns: she/they-sis
 
 🔭 I’m currently working on The Connect, which is a web application for users to write reviews for black-owned businesses.
 
